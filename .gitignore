@@ -1,1 +1,5 @@
 /assert-1.3.4.tar.gz
+/assert-1.3.4
+
+*.rpm
+*.log
